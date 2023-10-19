@@ -1,0 +1,80 @@
+IK Multimedia AXÉ Brazilian Percussion
+
+01 Axé Promo
+02 GrooveLoop1
+03 GrooveLoop2
+04 GrooveLoop3
+05 GrooveLoop4
+06 GrooveLoop5
+07 GrooveLoop6
+08 GrooveLoop7
+09 Afoxe 70 bpm
+10 Afoxe 120 bpm
+11 Agogo 120 bpm
+12 Agogo 140 bpm
+13 Agogo Samba School
+14 Apito 120 bpm
+15 Berimbau 75 bpm
+16 Berimbau 80 bpm
+17 Berimbau 120 bpm
+18 Congas 60 bpm
+19 Congas 90 bpm
+20 Congas 120 bpm
+21 Congas 140 bpm
+22 Congas Fills 120 bpm
+23 Congas Fills 140 bpm
+24 Cuica 80 bpm
+25 Cuica 120 bpm
+26 Cuica 140 bpm
+27 Ganza 120 bpm
+28 Metal RecoReco 120 bpm
+29 Pandeiru 75 bpm
+30 Pandeiru 120 bpm
+31 Pandeiru 140 bpm
+32 Repenique 120 bpm
+33 Repenique 140 bpm
+34 Repenique 160 bpm
+35 Sino 85 bpm
+36 Sino 90 bpm
+37 Sino 140 bpm
+38 Sino Samba School 120 bpm
+39 Surdo + Repenique 140 bpm
+40 Surdo + Repenique 160 bpm
+41 Surdo + Snare 120 bpm
+42 Surdo + Snare 140 bpm
+43 Surdo + Snare 160 bpm
+44 StickCongas Samba School 120 bpm
+45 Stick Congas 120 bpm
+46 Stick Congas 150 bpm
+47 Surdo Fills
+48 Surdo 100 bpm
+49 Surdo 120 bpm
+50 Surdo 140 bpm
+51 Surdo Samba School 120 bpm
+52 Tamborim 120 bpm
+53 Tamborim 140 bpm
+54 Tamborim Samba School 120 bpm
+55 TanTa 120 bpm
+56 VibraSlap
+57 Vocals 120 bpm
+58 Vocals 140 bpm
+59 Wood RecoReco Samba School 120 bpm
+60 Wood RecoReco 120 bpm
+61 Wood RecoReco 140 bpm
+62 Afoxe SS
+63 Agogo SS
+64 Apito SS
+65 Berimbau SS
+66 Congas SS
+67 Cuica SS
+68 MRecoReco SS
+69 Pandeiru SS
+70 Pan De Chuva SS
+71 Repenique SS
+72 Sino SS
+73 Surdo SS
+74 Tamborim SS
+75 TanTa SS
+76 VibraSlap SS
+77 Vocals SS
+78 WRecoReco SS
