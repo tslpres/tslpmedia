@@ -1,0 +1,4 @@
+Photos taken from Kleinanzeigen: https://web.archive.org/web/20231203141404/https://www.kleinanzeigen.de/s-anzeige/digidesign-samplecell-libary-selten-/2615755533-74-2499, specifically:
+ - https://web.archive.org/web/20231203153201im_/https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adaf19b8-638b-48a0-a146-3c9a9a25e364?rule=$_59.JPG
+ - https://web.archive.org/web/20231203141747im_/https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e2a91b1-d724-4ea7-88bb-873129ec1580?rule=$_59.JPG
+ - https://web.archive.org/web/20231203141748im_/https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f5a0fb6-8155-421e-955f-0e6002f9ecc2?rule=$_59.JPG
