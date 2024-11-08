@@ -1,0 +1,91 @@
+Sounds Good - Methods Of Mayhem (CDDA)
+
+01 - Demo
+02 - Analoops1
+03 - Analoops2
+04 - Analoops3
+05 - Analoops4
+06 - Analoops5
+07 - Analoops6
+08 - Locoder1
+09 - Locoder2
+10 - Locoder3
+11 - Locoder4
+12 - Locoder5
+13 - DrumbBeats1
+14 - DrumbBeats2
+15 - DrumbBeats3
+16 - DrumbBeats4
+17 - DrumbBeats5
+18 - DrumbBeats6
+19 - DrumbBeats7
+20 - DrumbBeats8
+21 - UglyLoops1
+22 - UglyLoops2
+23 - UglyLoops3
+24 - Atonalogue1
+25 - Atonalogue2
+26 - Atonalogue3
+27 - TreatGuitars1
+28 - TreatGuitars2
+29 - TreatGuitars3
+30 - TreatGuitars4
+31 - GrindControl1
+32 - GrindControl2
+33 - GrindControl3
+34 - GrindControl4
+35 - Trib.Dus..1
+36 - Trib.Dus..2
+37 - Trib.Dus..3
+38 - BassGuitar1
+39 - BassGuitar2
+40 - Throadbeats1
+41 - Throadbeats2
+42 - Throadbeats3
+43 - Throatriffs
+44 - KnobControl
+45 - Dirtscapes1
+46 - Dirtscapes2
+47 - Dirtscapes3
+48 - GainControl1
+49 - GainControl2
+50 - GroundControl
+51 - Elec.H.Noize1
+52 - Elec.H.Noize2
+53 - OldSchool
+54 - Ana.Kick.1
+55 - Ana.Kick.2
+56 - FilterChunks
+57 - Klicks	0:08
+58 - Dunks	0:15
+59 - MixedPerc.1
+60 - MixedPerc.2
+61 - MixedPerc.3
+62 - Misc.Drumb1
+63 - Misc.Drumb2
+64 - Misc.Snares
+65 - Bass
+66 - Ana.Long1
+67 - Ana.Long2
+68 - Ana.Long3
+69 - Ana.Long4
+70 - Ana.Short1
+71 - Ana.Short2
+72 - Ana.Short3
+73 - Shortcuts1
+74 - Shortcuts2
+75 - Shortcuts3
+76 - Shortcuts4
+77 - Lfo Fx
+78 - Noize FX
+79 - Music Fx1
+80 - Music Fx2
+81 - EvilDomination
+82 - PlimeEvil
+83 - TripToTheMind
+84 - TripToTheBrain
+85 - SleazeAndCheeze
+86 - PlanetJanet
+87 - Vocotalk
+88 - ExtraRootsFx1
+89 - ExtraRootsFx2
